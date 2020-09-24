@@ -1,0 +1,7 @@
+I renamed ( PowerButton.ocx ) file to ( PowerButton.ocxX )
+
+please rename these files with your hand,
+
+BECAUSE PSC don't allowed me to add OCX files,
+
+thanks
